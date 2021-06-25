@@ -1,6 +1,6 @@
 baseURL = "https://petsclub.vercel.app/"
 languageCode = "en-us"
-title = "petcares"
+title = "petsclub"
 theme = "gridarticle"
 
 [taxonomies]
